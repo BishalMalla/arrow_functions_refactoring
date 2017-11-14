@@ -1,4 +1,6 @@
-const expect = require('chai').expect
+
+const chai = require ('chai')
+const expect = chai.expect
 const myFunc = require('../main.js');
 
 describe('myFunc', function(){
