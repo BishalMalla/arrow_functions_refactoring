@@ -1,0 +1,26 @@
+{
+  "name": "arrow_functions_refactoring",
+  "version": "1.0.0",
+  "description": "practice writing with arrow functions!",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafutomo/arrow_functions_refactoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mafutomo/arrow_functions_refactoring/issues"
+  },
+  "homepage": "https://github.com/mafutomo/arrow_functions_refactoring#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
