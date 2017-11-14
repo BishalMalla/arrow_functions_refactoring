@@ -1,24 +1,28 @@
 {
   "name": "arrow_functions_refactoring",
   "version": "1.0.0",
-  "description": "coding with fat arrow functions!",
+  "description": "## Instructions",
   "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
   "scripts": {
-
     "test": "mocha"
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mafutomo/arrow_functions_refactoring.git"
   },
-  "keywords": [
-    "Arrow Functions"
-  ],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.1"
-  }
+  "bugs": {
+    "url": "https://github.com/mafutomo/arrow_functions_refactoring/issues"
+  },
+  "homepage": "https://github.com/mafutomo/arrow_functions_refactoring#readme"
 }
