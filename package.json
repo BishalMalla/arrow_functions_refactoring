@@ -1,14 +1,14 @@
 {
   "name": "arrow_functions_refactoring",
   "version": "1.0.0",
-  "description": "practice writing with arrow functions!",
+  "description": "coding with fat arrow functions!",
   "main": "main.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mafutomo/arrow_functions_refactoring.git"
